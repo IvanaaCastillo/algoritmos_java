@@ -1,4 +1,4 @@
-# Algoritmos Básicos (Core)
+# Algoritmos Básicos Skillnest
 
 ## Descripción
 
